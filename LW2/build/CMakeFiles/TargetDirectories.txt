@@ -1,0 +1,4 @@
+/home/o_antypov_io21/build/CMakeFiles/rebuild_cache.dir
+/home/o_antypov_io21/build/CMakeFiles/edit_cache.dir
+/home/o_antypov_io21/build/CMakeFiles/calculator_lib.dir
+/home/o_antypov_io21/build/CMakeFiles/calculator.dir
